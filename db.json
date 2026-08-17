@@ -1,0 +1,39 @@
+{
+  "enrollments": [
+    {
+      "id": 1,
+      "studentName": "Rahim Uddin",
+      "courseCode": "CSE4165",
+      "semester": "Fall2026",
+      "status": "enrolled"
+    },
+    {
+      "id": 2,
+      "studentName": "Karim Hasan",
+      "courseCode": "CSE4165",
+      "semester": "Fall2026",
+      "status": "enrolled"
+    },
+    {
+      "id": 3,
+      "studentName": "Fatema Akter",
+      "courseCode": "CSE3111",
+      "semester": "Fall2026",
+      "status": "dropped"
+    },
+    {
+      "id": 4,
+      "studentName": "Nusrat Jahan",
+      "courseCode": "CSE2213",
+      "semester": "Summer2026",
+      "status": "completed"
+    },
+    {
+      "id": 5,
+      "studentName": "Tanvir Ahmed",
+      "courseCode": "CSE4165",
+      "semester": "Fall2026",
+      "status": "enrolled"
+    }
+  ]
+}
